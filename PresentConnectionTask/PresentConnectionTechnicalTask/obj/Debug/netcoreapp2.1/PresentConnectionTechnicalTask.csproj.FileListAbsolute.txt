@@ -1,0 +1,33 @@
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.deps.json
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.json
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.dev.json
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfoInputs.cache
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfo.cs
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+C:\Users\Rokas\Desktop\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.deps.json
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.json
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.dev.json
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfoInputs.cache
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfo.cs
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\New folder\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.deps.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.runtimeconfig.dev.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csprojAssemblyReference.cache
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfoInputs.cache
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.AssemblyInfo.cs
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\PresentConnectionTechnicalTask\obj\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.csproj.CoreCompileInputs.cache

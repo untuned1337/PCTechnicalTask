@@ -1,0 +1,54 @@
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+C:\Users\Rokas\Desktop\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+C:\Users\Rokas\Desktop\New folder\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Rokas\Desktop\New folder\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\bin\Debug\netcoreapp2.1\PresentConnectionTechnicalTask.pdb
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+D:\Git_Repos\PCTechnicalTask\PresentConnectionTask\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
