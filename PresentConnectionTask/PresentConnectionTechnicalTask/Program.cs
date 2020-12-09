@@ -8,12 +8,11 @@ namespace PresentConnectionTechnicalTask
     class Program
     {
         static void Main(string[] args)
-        {
-            
+        {                     
             Client client = new Client
                 (
                     name:"Jonas", 
-                    country: CountryManager.GetCountryByCountryCode("LT"),
+                    countryCode: "LT",
                     isVATPayer:false,
                     personType:PersonType.IndividualPerson
                 );
@@ -23,8 +22,8 @@ namespace PresentConnectionTechnicalTask
                 new ServiceProvider
                 (
                     name:"PresentConnection",
+                    countryCode: "UK",
                     service:service,
-                    country:CountryManager.GetCountryByCountryCode("UK"),
                     isVATPayer:true
                 );
 
