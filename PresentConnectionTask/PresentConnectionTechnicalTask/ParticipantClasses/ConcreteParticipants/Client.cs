@@ -6,8 +6,8 @@ namespace PresentConnectionTechnicalTask.ParticipantClasses.ConcreteParticipants
     {
         public Client() : base() { }
 
-        public Client(string name, Country country, bool isVATPayer, PersonType personType) 
-            : base(name, country, isVATPayer, personType)
+        public Client(string name, string countryCode, bool isVATPayer, PersonType personType) 
+            : base(name, countryCode, isVATPayer, personType)
         {
         }      
     }

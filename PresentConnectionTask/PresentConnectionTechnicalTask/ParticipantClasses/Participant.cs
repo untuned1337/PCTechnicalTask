@@ -8,14 +8,14 @@ namespace PresentConnectionTechnicalTask.ParticipantClasses
     public class Participant
     {
         public readonly string Name;
-        public readonly Country Country;
-        public readonly bool IsVATPayer;
+        public readonly string CountryCode;
+        public readonly bool IsVATPayer; 
         public readonly PersonType PersonType;
 
-        protected Participant(string name, Country country, bool isVATPayer, PersonType personType)
+        protected Participant(string name, string countryCode, bool isVATPayer, PersonType personType)
         {
             Name = name;
-            Country = country;
+            CountryCode = countryCode;
             IsVATPayer = isVATPayer;
             PersonType = personType;
         }

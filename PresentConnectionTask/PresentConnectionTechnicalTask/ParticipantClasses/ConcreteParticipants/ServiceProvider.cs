@@ -7,8 +7,8 @@ namespace PresentConnectionTechnicalTask.ParticipantClasses.ConcreteParticipants
     {
         public Service Service { get; set; }
 
-        public ServiceProvider(string name, Service service, Country country, bool isVATPayer) 
-            : base(name, country, isVATPayer, PersonType.LegalPerson)
+        public ServiceProvider(string name, string countryCode, Service service, bool isVATPayer) 
+            : base(name, countryCode, isVATPayer, PersonType.LegalPerson)
         {
             Service = service;
         }

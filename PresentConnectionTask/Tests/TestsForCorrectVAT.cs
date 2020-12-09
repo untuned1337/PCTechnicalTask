@@ -16,6 +16,7 @@ namespace Tests
     public class TestsForCorrectVAT
     {        
         IParticipantValidator participantValidator;
+        CountryManager countryManager;
         VATManager vatManager;        
         ServiceProvider provider;
         Client client;
@@ -24,6 +25,7 @@ namespace Tests
         public void SetUp()
         {
             participantValidator = Substitute.For<IParticipantValidator>();
+            countryManager = CountryManager.GetInstance();
             vatManager = new VATManager(participantValidator);
             
             client = CreateClientStub();
@@ -32,7 +34,7 @@ namespace Tests
 
         private static Client CreateClientStub()
         {
-            return new Client("TestClient", CountryManager.GetCountryByCountryCode("LT"), true, PersonType.IndividualPerson);
+            return new Client("TestClient", "LT", true, PersonType.IndividualPerson);
         }
 
         [Test]
@@ -64,8 +66,9 @@ namespace Tests
             participantValidator.ParticipantsAreFromTheSameCountry(client, provider).Returns(false);
 
             double appropriateVAT = vatManager.GetAppropriateVAT(provider, client);
+            double expectedVAT = countryManager.GetVATRateByCountryCode(client.CountryCode);
 
-            Assert.AreEqual(client.Country.VATRate, appropriateVAT);
+            Assert.AreEqual(expectedVAT, appropriateVAT);
         }
        
         [Test]
@@ -88,8 +91,9 @@ namespace Tests
             participantValidator.ParticipantsAreFromTheSameCountry(client, provider).Returns(true);
 
             double appropriateVAT = vatManager.GetAppropriateVAT(provider, client);
+            double expectedVAT = countryManager.GetVATRateByCountryCode(client.CountryCode);
 
-            Assert.AreEqual(client.Country.VATRate, appropriateVAT);
+            Assert.AreEqual(expectedVAT, appropriateVAT);
         }
         
     }
